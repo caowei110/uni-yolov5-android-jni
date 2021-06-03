@@ -1,0 +1,3 @@
+D:/worka/slef/ncnn-android-yolov5-master/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/yolov5ncnn.dir
+D:/worka/slef/ncnn-android-yolov5-master/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/worka/slef/ncnn-android-yolov5-master/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

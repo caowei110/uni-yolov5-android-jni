@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.yolov5ncnn"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->[androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\bc9ed080db3f89ed2b4b72bdd583174e\constraintlayout-2.0.4\AndroidManifest.xml:7:9-38
+10
+11    <application
+11-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:6:5-14:19
+12        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+12-->[androidx.core:core:1.5.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\062235506723b4139567f7f9df5c99ab\core-1.5.0\AndroidManifest.xml:24:18-86
+13        android:debuggable="true"
+14        android:label="@string/app_name" >
+14-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:6:18-50
+15        <activity
+15-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:7:9-13:20
+16            android:name="com.tencent.yolov5ncnn.MainActivity"
+16-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:7:19-46
+17            android:label="@string/app_name" >
+17-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:8:19-51
+18            <intent-filter>
+18-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:9:13-12:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:10:17-69
+19-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:10:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:11:17-77
+21-->D:\worka\slef\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:11:27-74
+22            </intent-filter>
+23        </activity>
+24    </application>
+25
+26</manifest>

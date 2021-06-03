@@ -1,0 +1,23 @@
+# ninja log v5
+0	765	644325504	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+766	983	644325504	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
+7	985	644395337	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+985	4641	644395340	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
+0	7	0	clean	4bfeda2da8782db5
+3	765	644395451	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+765	3972	644395455	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
+2	745	644395824	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+745	1971	644395825	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
+0	7	0	clean	4bfeda2da8782db5
+2	774	644399928	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+774	1983	644399929	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
+0	8	0	clean	4bfeda2da8782db5
+2	760	644400491	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+760	1955	644400492	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
+0	8	0	clean	4bfeda2da8782db5
+1	8	0	clean	4bfeda2da8782db5
+2	778	644400716	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+778	2066	644400717	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
+0	11	0	clean	4bfeda2da8782db5
+2	874	644400793	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7b9fdf2fead91316
+875	2511	644400795	D:/worka/slef/ncnn-android-yolov5-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so	df46db20807b6e89
